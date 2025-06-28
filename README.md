@@ -1,5 +1,19 @@
 # Food Delivery Data Analysis - In Saudi Arabia (2022-2024) 🛵🍔📊
 
+
+### 📚 Libraries & Platforms
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-5B8AC1?logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
+</div>
+
+
 ## 📌 Project Overview
 This project analyzes food delivery data across major Saudi Arabian cities from 2022 to 2024. Discover customer behavior patterns, restaurant performance metrics, and business growth opportunities through data-driven insights!
 
