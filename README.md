@@ -3,6 +3,30 @@
 ## 📌 Project Overview
 This project analyzes food delivery data across major Saudi Arabian cities from 2022 to 2024. Discover customer behavior patterns, restaurant performance metrics, and business growth opportunities through data-driven insights!
 
+## 📑 Dataset Structure
+    <class 'pandas.core.frame.DataFrame'>
+    RangeIndex: 10000 entries, 0 to 9999
+    Data columns (total 7 columns):
+     #   Column                               Non-Null Count  Dtype  
+    ---  ------                               --------------  -----  
+     0   Order Number                         10000 non-null  int64  
+     1   Order Date and Time                  10000 non-null  object 
+     2   Order_City                           10000 non-null  object 
+     3   Restaurant Type                      10000 non-null  object 
+     4   Total Bill (in Saudi Riyals)         10000 non-null  float64
+     5   Delivery Duration (in minutes)       10000 non-null  int64  
+     6   Customer Rating (from 1 to 5 stars)  10000 non-null  int64  
+    dtypes: float64(1), int64(3), object(3)
+    memory usage: 547.0+ KB
+
+### 7 Columns and 10k Rows
+🟢 No missing values in any column (100% complete)
+
+⚠️ Type conversions performed:
+
+1. Order Date and Time converted from object to datetime.
+2. Created new time-based features during analysis.
+
 ## 🧹 Data Cleaning Process
 ```python
 # Convert to datetime
